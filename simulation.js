@@ -42,7 +42,7 @@ function dot() {
     distanceCalc(dotx,doty)
 }
 
-//Pythatgoras Theorum
+//Pythagoras Theorum
 function distanceCalc(x, y) {
     let vertical = Math.abs(canvas.width/2 - x);
     let horizontal = Math.abs(canvas.height/2 - y);
