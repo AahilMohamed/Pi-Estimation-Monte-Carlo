@@ -25,8 +25,8 @@ Hence, we have estimated the value of π
 
 
 ## Build Status
-Currently, there are 2 bugs.
-The spawning of dots doesn't stop once it exceeds the input value.
+Currently, there are 2 bugs. /n
+The spawning of dots doesn't stop once it exceeds the input value. /n
 The formula to calculate percentage efficiency does not work
 
 These issues will be resolved soon.
