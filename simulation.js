@@ -23,9 +23,8 @@ function circle(x, y, r, color) {
 }
 
 //To animate drawing of points
-let speed = 1000;
 function startSim() {
-    simulation = setInterval(runSimulation, 1000 / speed)
+    simulation = setInterval(runSimulation, 35)
     if (totdots >= dotcount.value) {
         clearInterval(simulation) 
     }
